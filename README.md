@@ -7,7 +7,7 @@ to create, publish, and consume a pipeline.
 
 ## Architectural Diagram
 *Figure 1: Architectural Diagram*
-![Architectural Diagram](screenshots/architecture.png)
+![Architectural Diagram](Screenshots/Architecture.png)
 
 ## Key Steps
 **1. Authentication :** 
