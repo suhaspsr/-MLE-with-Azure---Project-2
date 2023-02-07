@@ -24,7 +24,7 @@ model with a weighted AUC of 0.95.
 
 As can be seen in the figure, the *bankmarketing_train.csv* was successfully uploaded as a registered dataset named 
 *bank-marketing*.
-![Registered Dataset](Screenshots/Fig 1.png)
+![Registered Dataset](Screenshots/Fig1.png)
 
 *Figure 4: Experiment Completion*
 
