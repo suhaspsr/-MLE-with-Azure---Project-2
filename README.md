@@ -12,14 +12,7 @@ to create, publish, and consume a pipeline.
 ## Key Steps
 **1. Authentication :** 
 
-In this step we were supposed to create a Security Principal (SP) to interact with the Azure Workspace.
-I skipped this step as I am not using my own Azure account but instead using the lab Udacity account. You can see the 
-authentication failure printed in the console below as depicted in *Figure 2*.
-
-*Figure 2: Authentication Failure* 
-
-As can be seen in the figure, I am unable to use az to authenticate.
-![Step 1](images/Step1-ServicePrincipalCreation.png)
+I skipped this step as I am using the lab Udacity account.
 
 **2. Automated ML Experiment :** 
 
@@ -27,11 +20,11 @@ I configured a compute cluster (Standard_DS3_v2), registered the bank marketing 
 and set up and ran an Automated ML experiment (best-model). This experiment identified VotingEnsemble to be the best 
 model with a weighted AUC of 0.95. 
 
-*Figure 3: Registered Dataset*
+*Figure 2: Registered Dataset*
 
 As can be seen in the figure, the *bankmarketing_train.csv* was successfully uploaded as a registered dataset named 
 *bank-marketing*.
-![Registered Dataset](images/Step2-RegisteredDataset.png)
+![Registered Dataset](Screenshots/Fig 1.png)
 
 *Figure 4: Experiment Completion*
 
@@ -141,9 +134,7 @@ The figure shows the published pipeline in ML studio.
 The figure shows the published pipeline endpoint in ML studio.
 ![Published Pipeline Endpoint](images/Step7-PublishedPipelineEndpoint.png)
 
-**8. Documentation:** 
 
-I documented my steps and results in this readme with supporting figures.
 
 
 ## Screen Recording
