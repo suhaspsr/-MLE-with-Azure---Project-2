@@ -76,8 +76,7 @@ I downloaded *swagger.json* and ran both *swagger.sh* and *serve.py*.
 
 **6. Consume model endpoints :**
 
-I successfully demonstrated the model was consumable by modifying and running *endpoint.py*. I also demonstrated I 
-could consume the model using Postman.
+By modifying and running *endpoint.py* I can post the payload to the deployed model endpoint and get results.
 
 *Figure 11: Consume Model*
 
