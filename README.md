@@ -40,7 +40,7 @@ The figure shows all the models evaluated by the AutoML experiment and their cor
 *Figure 6: Best AutoML Model Metrics*
 
 The figure shows the metrics for the best model (VotingEnsemble). 
-![Step 2 - Best Model 1](Screenshots/Fig3.png)
+![Step 2 - Best Model 1](Screenshots/Fig4.png)
 
 **3. Deploy the best model :** 
 
@@ -49,7 +49,7 @@ I deployed the best model using Azure Container Instance (ACI) with authenticati
 *Figure 7: Model Deployment*
 
 The figure shows the settings used to deploy the model.
-![Model Deployment](Screenshots/Fig4.png)
+![Model Deployment](Screenshots/Fig5.png)
 
 **4. Enable logging :**
 
@@ -60,12 +60,12 @@ request frequency, latency, etc.
 *Figure 8: Application Insights Enabled*
 
 The figure shows the model endpoint page which has been updated to reflect that application insights are now enabled.
-![Application Insights Enabled](Screenshots/Fig5.png)
+![Application Insights Enabled](Screenshots/Fig6.png)
 
 *Figure 9: Running Logs*
 
 The figure shows the endpoint logs running in the terminal.
-![Running Logs](Screenshots/Fig6.png)
+![Running Logs](Screenshots/Fig7.png)
 
 **5. Swagger Documentation :**
 
@@ -75,17 +75,17 @@ with the swagger instance running with the documentation for the HTTP API for th
 *Figure 10: Serving Swagger Directory*
 
 The figure shows the swagger directory is being served with *serve.py*.
-![Serving Swagger Directory](Screenshots/Fig7.png)
+![Serving Swagger Directory](Screenshots/Fig8.png)
 
 *Figure 11: Swagger UI Container*
 
 The figure shows the running docker container which was built on the swagger-ui image.
-![Swagger UI Container](Screenshots/Fig8.png)
+![Swagger UI Container](Screenshots/Fig9.png)
 
 *Figure 12: Swagger API*
 
 The figure shows the Swagger API page for the required model deployment endpoint.
-![Swagger API](Screenshots/Fig9.png)
+![Swagger API](Screenshots/Fig10.png)
 
 **6. Consume model endpoints :**
 
@@ -97,12 +97,12 @@ could consume the model using Postman.
 The figure shows the model is returning predictions when the updated *endpoint.py* is run. This demonstrates the model can be 
 consumed by posting a JSON to the endpoint and supplying the required authentication.
 
-![Consume Model](Screenshots/Fig10.png)
+![Consume Model](Screenshots/Fig11.png)
 
 *Figure 14: Consume Model Via Postman*
 
 The figure shows the model is consumable by using the *Postman* desktop application.
-![Consume Model Postman](Screenshots/Fig11.png)
+![Consume Model Postman](Screenshots/Fig12.png)
 
 **7. Create and publish a pipeline :** 
 
@@ -112,17 +112,17 @@ demonstrated it was running successfully.
 *Figure 15: Pipeline Running*
 
 The figure shows the pipeline has been submitted from the Jupyter notebook and is now running with information available in ML studio. 
-![Pipeline Running](Screenshots/Fig12.png)
+![Pipeline Running](Screenshots/Fig13.png)
 
 *Figure 16: Pipeline Completion Notebook*
 
 The figure shows the pipeline run has completed in the Jupyter notebook.
-![Pipeline Completion Notebook](Screenshots/Fig13.png)
+![Pipeline Completion Notebook](Screenshots/Fig14.png)
 
 *Figure 16: Pipeline Completion*
 
 The figure shows the pipeline has completed as shown in ML studio.
-![Pipeline Completion](Screenshots/Fig14.png)
+![Pipeline Completion](Screenshots/Fig15.png)
 
 *Figure 16: Published Pipeline*
 
