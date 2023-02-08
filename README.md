@@ -131,6 +131,6 @@ The figure shows the published pipeline endpoint in ML studio.
 ** Documentation
 
 ## Screen Recording
-[https://youtu.be/97uhnickb0M](https://youtu.be/97uhnickb0M)
+[https://youtu.be/97uhnickb0M](https://youtu.be/nJ2ul4lc84U)
 
 
