@@ -79,17 +79,12 @@ I downloaded *swagger.json* and ran both *swagger.sh* and *serve.py*.
 I successfully demonstrated the model was consumable by modifying and running *endpoint.py*. I also demonstrated I 
 could consume the model using Postman.
 
-*Figure 13: Consume Model*
+*Figure 11: Consume Model*
 
 The figure shows the model is returning predictions when the updated *endpoint.py* is run. This demonstrates the model can be 
 consumed by posting a JSON to the endpoint and supplying the required authentication.
 
-![Consume Model](Screenshots/Fig11.png)
-
-*Figure 14: Consume Model Via Postman*
-
-The figure shows the model is consumable by using the *Postman* desktop application.
-![Consume Model Postman](Screenshots/Fig12.png)
+![Consume Model](Screenshots/Fig9.png)
 
 **7. Create and publish a pipeline :** 
 
@@ -99,22 +94,22 @@ demonstrated it was running successfully.
 *Figure 15: Pipeline Running*
 
 The figure shows the pipeline has been submitted from the Jupyter notebook and is now running with information available in ML studio. 
-![Pipeline Running](Screenshots/Fig13.png)
+![Pipeline Running](Screenshots/Fig10.png)
 
 *Figure 16: Pipeline Completion Notebook*
 
 The figure shows the pipeline run has completed in the Jupyter notebook.
-![Pipeline Completion Notebook](Screenshots/Fig14.png)
+![Pipeline Completion Notebook](Screenshots/Fig11.png)
 
 *Figure 16: Pipeline Completion*
 
 The figure shows the pipeline has completed as shown in ML studio.
-![Pipeline Completion](Screenshots/Fig15.png)
+![Pipeline Completion](Screenshots/Fig12.png)
 
 *Figure 16: Published Pipeline*
 
 The figure shows the published pipeline in ML studio.
-![Published Pipeline](Screenshots/Fig15.png)
+![Published Pipeline](Screenshots/Fig13.png)
 
 *Figure 16: Published Pipeline Endpoint*
 
