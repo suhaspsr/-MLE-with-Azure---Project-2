@@ -76,19 +76,16 @@ I downloaded *swagger.json* and ran both *swagger.sh* and *serve.py*.
 
 **6. Consume model endpoints :**
 
-By modifying and running *endpoint.py* I can post the payload to the deployed model endpoint and get results.
+By modifying and running *endpoint.py*, I can post the payload to the deployed model endpoint and get results.
 
 *Figure 11: Consume Model*
 
-The figure shows the model is returning predictions when the updated *endpoint.py* is run. This demonstrates the model can be 
-consumed by posting a JSON to the endpoint and supplying the required authentication.
-
+The figure shows the model is returning predictions when the updated *endpoint.py* is run.
 ![Consume Model](Screenshots/Fig9.png)
 
 **7. Create and publish a pipeline :** 
 
-I uploaded and updated the jupyter notebook provided to match the environment. I 
-demonstrated it was running successfully.
+I uploaded and updated the jupyter notebook provided to match the environment. 
 
 *Figure 12: Pipeline*
 
