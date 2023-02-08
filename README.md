@@ -57,24 +57,21 @@ The figure shows the deployed model, endpoint page which has been updated to ref
 I edited and ran the provided *logs.py* to enable logging. This helped monitor the deployed model and keep track of the
 request frequency, latency, etc.
 
-*Figure 8: Running Logs*
+*Figure 7: Running Logs*
 ![Running Logs](Screenshots/Fig6.png)
 
 
 **5. Swagger Documentation :**
 
-I downloaded *swagger.json* and ran both *swagger.sh* and *serve.py*. I interacted
-with the swagger instance running with the documentation for the HTTP API for the model.
+I downloaded *swagger.json* and ran both *swagger.sh* and *serve.py*. 
 
-*Figure 10: Serving Swagger Directory*
-
-The figure shows the swagger directory is being served with *serve.py*.
-![Serving Swagger Directory](Screenshots/Fig8.png)
+*Figure 8: Serving Swagger Directory*
+![Serving Swagger Directory](Screenshots/Fig7.png)
 
 *Figure 11: Swagger UI Container*
 
 The figure shows the running docker container which was built on the swagger-ui image.
-![Swagger UI Container](Screenshots/Fig9.png)
+![Swagger UI Container](Screenshots/Fig8.png)
 
 *Figure 12: Swagger API*
 
