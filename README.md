@@ -96,7 +96,7 @@ demonstrated it was running successfully.
 The figure shows the pipeline has been submitted from the Jupyter notebook and is now running with information available in ML studio. 
 ![Pipeline Running](Screenshots/Fig10.png)
 
-*Figure 13: Published Pipeline*
+*Figure 13: Published Pipeline Run*
 
 ![Published Pipeline](Screenshots/Fig13.png)
 
@@ -105,18 +105,11 @@ The figure shows the pipeline has been submitted from the Jupyter notebook and i
 The figure shows the pipeline run has completed in the Jupyter notebook.
 ![Pipeline Completion Notebook](Screenshots/Fig11.png)
 
-*Figure 15: Pipeline Completion*
-
-The figure shows the pipeline has completed as shown in ML studio.
 ![Pipeline Completion](Screenshots/Fig12.png)
-
-
-
-
 
 ** Documentation
 
-## Screen Recording
+## Screen Recording of the Project
 [https://youtu.be/97uhnickb0M](https://youtu.be/nJ2ul4lc84U)
 
 
