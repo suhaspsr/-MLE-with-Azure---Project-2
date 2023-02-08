@@ -1,9 +1,7 @@
 # Operationalizing Machine Learning
 
 ## Overview
-In this project which is a part of the Azure ML Engineer Nanodegree, we continued to work with the Bank Marketing dataset.
-We used Azure to configure a cloud-based machine learning production model, deploy it, and consume it. We also learned 
-to create, publish, and consume a pipeline.
+This is an overview of the second project in the udacity course MLE with Azure. In this project, we have created an azure dataset and using it we ran an AutoML job to find the best model. We deployed the model and consume its endpoints using Azure compute instance and swagger respectively. Later we publish the pipleline and use it to post the payload.
 
 ## Architectural Diagram
 *Figure 1: Architectural Diagram*
