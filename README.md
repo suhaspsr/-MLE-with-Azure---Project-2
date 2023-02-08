@@ -68,15 +68,11 @@ I downloaded *swagger.json* and ran both *swagger.sh* and *serve.py*.
 *Figure 8: Serving Swagger Directory*
 ![Serving Swagger Directory](Screenshots/Fig7.png)
 
-*Figure 11: Swagger UI Container*
-
-The figure shows the running docker container which was built on the swagger-ui image.
+*Figure 9: Swagger UI*
 ![Swagger UI Container](Screenshots/Fig8.png)
 
-*Figure 12: Swagger API*
-
-The figure shows the Swagger API page for the required model deployment endpoint.
-![Swagger API](Screenshots/Fig10.png)
+*Figure 10: Swagger API*
+![Swagger API](Screenshots/Fig14.png)
 
 **6. Consume model endpoints :**
 
