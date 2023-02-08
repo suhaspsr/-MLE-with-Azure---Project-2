@@ -98,7 +98,6 @@ The figure shows the pipeline has been submitted from the Jupyter notebook and i
 
 *Figure 13: Published Pipeline*
 
-The figure shows the published pipeline in ML studio.
 ![Published Pipeline](Screenshots/Fig13.png)
 
 *Figure 14: Pipeline Completion Notebook*
