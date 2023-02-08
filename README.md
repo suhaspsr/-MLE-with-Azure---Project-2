@@ -91,30 +91,29 @@ consumed by posting a JSON to the endpoint and supplying the required authentica
 I uploaded and updated the jupyter notebook provided to match the environment. I 
 demonstrated it was running successfully.
 
-*Figure 15: Pipeline Running*
+*Figure 12: Pipeline*
 
 The figure shows the pipeline has been submitted from the Jupyter notebook and is now running with information available in ML studio. 
 ![Pipeline Running](Screenshots/Fig10.png)
 
-*Figure 16: Pipeline Completion Notebook*
-
-The figure shows the pipeline run has completed in the Jupyter notebook.
-![Pipeline Completion Notebook](Screenshots/Fig11.png)
-
-*Figure 16: Pipeline Completion*
-
-The figure shows the pipeline has completed as shown in ML studio.
-![Pipeline Completion](Screenshots/Fig12.png)
-
-*Figure 16: Published Pipeline*
+*Figure 13: Published Pipeline*
 
 The figure shows the published pipeline in ML studio.
 ![Published Pipeline](Screenshots/Fig13.png)
 
-*Figure 16: Published Pipeline Endpoint*
+*Figure 14: Pipeline Completion Notebook*
 
-The figure shows the published pipeline endpoint in ML studio.
-![Published Pipeline Endpoint](Screenshots/Fig16.png)
+The figure shows the pipeline run has completed in the Jupyter notebook.
+![Pipeline Completion Notebook](Screenshots/Fig11.png)
+
+*Figure 15: Pipeline Completion*
+
+The figure shows the pipeline has completed as shown in ML studio.
+![Pipeline Completion](Screenshots/Fig12.png)
+
+
+
+
 
 ** Documentation
 
